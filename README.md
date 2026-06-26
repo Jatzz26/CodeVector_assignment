@@ -1,5 +1,7 @@
 # Product Browser
 
+**Live Demo:** [https://codevector-assignment-xwa5.onrender.com](https://codevector-assignment-xwa5.onrender.com)
+
 A MERN-stack app that lets you browse **200,000 products** with category filtering and stable, fast pagination.
 
 ## Architecture
